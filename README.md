@@ -19,5 +19,5 @@ Giúp thay thế văn bản trong script.rpy bằng tệp text, tệp text có d
 
 **filternametxt.py**:
 ``
-tìm kiếm tệp kí tự để sửa toàn bộ trong 1 nốt nhạc
+tìm kiếm văn bản kí tự để sửa toàn bộ trong 1 nốt nhạc (dùng trong txt)
 ``
